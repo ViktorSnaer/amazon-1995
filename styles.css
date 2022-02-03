@@ -1,0 +1,58 @@
+html {
+  background-color: #cecece;
+}
+
+body {
+  max-width: 1000px;
+  margin: auto;
+}
+
+a {
+  color: blue;
+}
+
+.logo {
+  margin: 1rem;
+  height: 300px;
+  width: fit-content;
+  box-shadow: -10px -10px 0px #004659;
+}
+
+.top-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.top-text {
+  text-align: center;
+  margin: 0 auto;
+  height: 300px;
+  width: 60%;
+}
+
+.top-text h1 {
+  font-size: 50px;
+  margin-bottom: 3rem;
+}
+
+.top-container a {
+  font-size: 30px;
+  width: 100px;
+  color: blue;
+  font-style: italic;
+}
+
+.very-cool {
+  text-align: center;
+  font-size: 24px;
+}
+
+.link-title {
+  font-size: 32px;
+  color: blue;
+}
+
+.text {
+  margin-left: 4rem;
+  font-size: 24px;
+}
